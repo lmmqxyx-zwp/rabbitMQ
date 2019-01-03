@@ -1,0 +1,3 @@
+先运行exe_rpc_server.sh服务脚本
+
+后运行exe_rpc_client.sh脚本
